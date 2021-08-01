@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatL98
-- 👀 I’m interested in development front end
+- 👀 I’m interested in FullStack Developer
 - 🌱 I’m currently learning JavaScript and React.js
 
 <!---
