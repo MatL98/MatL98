@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matias Longo
 - 👀 I’m interested in FullStack Developer
 - 🌱 I’m currently learning Node.js
-- 🔧 My skills are: HTML, CSS - (Experience in: Bootstrap, SASS), JavaScript, React.js, GIT. 
+- 🔧 My skills are: HTML, CSS - (Experience in: Bootstrap, SASS), JavaScript, React.js, Node.JS, Express.JS. Mongo DB GIT. 
 <!---
 MatL98/MatL98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
